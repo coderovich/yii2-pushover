@@ -1,6 +1,6 @@
 <?php
 
-namespace consynki\yii\pushover;
+namespace coderovich\yii\pushover;
 
 use Yii;
 use yii\base\ErrorException;
