@@ -1,5 +1,5 @@
 {
-  "name": "consynki/yii2-pushover",
+  "name": "coderovich/yii2-pushover",
   "description": "A Yii2 PushOver log target and pushover messaging component",
   "type": "yii2-extension",
   "keywords": ["log", "pushover", "yii2"],
@@ -15,11 +15,11 @@
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": "*",
-    "sly/pushover": "*"
+    "coderovich/pushover": "*"
   },
   "autoload": {
     "psr-4": {
-      "consynki\\yii\\pushover\\": "src/"
+      "coderovich\\yii\\pushover\\": "src/"
     }
   }
 }
