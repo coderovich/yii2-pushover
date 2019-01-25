@@ -1,9 +1,9 @@
 <?php
 
-    namespace consynki\yii\pushover;
+    namespace coderovich\yii\pushover;
 
-    use Sly\PushOver\Model\Push;
-    use Sly\PushOver\PushManager;
+    use coderovich\pushover\Model\Push;
+    use coderovich\pushover\PushManager;
     use yii\base\Component;
 
     /**
